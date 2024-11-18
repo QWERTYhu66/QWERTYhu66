@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @QWERTYhu66
-- 👀 I’m interested in video games
-- 🌱 I’m currently learning JavaScript
+Hello, I'm Aaron.
 
 <!---
 QWERTYhu66/QWERTYhu66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
