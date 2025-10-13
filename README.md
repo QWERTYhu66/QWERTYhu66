@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qwertyhu66&label=Profile%20views&color=2e76a3&style=flat" alt="qwertyhu66" /> </p>
 
-- 🔭 I’m currently working on red-teaming myself.
+- 🔭 I’m currently working a few websites.
 
 - 🌱 I’m currently learning **Cybersecurity**
 
