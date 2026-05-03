@@ -72,7 +72,7 @@ languages: english / mandarin / multilingual runtime
 ```
 
 languages:
-python | javascript | c++ | html | css
+python | javascript | typescript | c++ | java | html | css
 
 systems:
 linux | git | bash
