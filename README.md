@@ -152,7 +152,7 @@ connection closed
 <div align="center">
 
 ```
-stay curious. stay hacking.
+stay curious.
 ```
 
 </div>
