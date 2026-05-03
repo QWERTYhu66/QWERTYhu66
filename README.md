@@ -133,10 +133,6 @@ NETWORK: connected
 > rendering graph...
 ```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qwertyhu66&show_icons=true&theme=dark&layout=compact" />
-</p>
-
 ---
 
 ## ⟲ END SESSION
