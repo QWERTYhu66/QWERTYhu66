@@ -134,8 +134,9 @@ NETWORK: connected
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=qwertyhu66&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwertyhu66&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9f&text_color=00ff9f" />
 </p>
+
 ---
 
 ## ⟲ END SESSION
