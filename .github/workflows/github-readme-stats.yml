@@ -16,7 +16,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v1
         with:
           token: ${{ secrets.GH_TOKEN }}
-          card: overview
+          card: stats
 
       - name: Generate Readme Stats
         uses: stats-organization/github-readme-stats-action@v1
