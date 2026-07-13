@@ -21,14 +21,14 @@
 
 ---
 
-# 🖥️ INTERACTIVE TERMINAL
+# INTERACTIVE TERMINAL
 
 ```
 Type a command:
 > help
 ```
 
-### ⚡ COMMANDS
+### COMMANDS
 
 * `help` → list commands
 * `about` → about me
@@ -59,9 +59,9 @@ focus: cybersecurity + web systems
 languages: english / mandarin / multilingual runtime
 ```
 
-* 🔭 building web apps & experimental systems
-* 🌱 learning cybersecurity (defensive + offensive basics)
-* ⚡ enjoys hacking concepts, coding, and languages
+* building web apps & experimental systems
+* learning cybersecurity (defensive + offensive basics)
+* enjoys hacking concepts, coding, and languages
 
 ---
 
@@ -129,7 +129,7 @@ NETWORK: connected
 
 ---
 
-## 📊 GITHUB OUTPUT
+## GITHUB OUTPUT
 
 ```
 > compiling stats...
@@ -142,7 +142,7 @@ NETWORK: connected
 
 ---
 
-## ⟲ END SESSION
+## END SESSION
 
 ```
 connection closed
