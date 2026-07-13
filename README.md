@@ -137,9 +137,9 @@ NETWORK: connected
 ```
 
 <p align="center">
-  ![Stats](./profile/stats.svg)
-  ![Top Languages](./profile/top-langs.svg)
-  ![Pinned](./profile/pin-stats-organization-github-readme-stats.svg)
+  <img src="./profile/stats.svg" alt="Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <img src="./profile/pin-stats-organization-github-readme-stats.svg" alt="Pinned" />
 </p>
 
 ---
