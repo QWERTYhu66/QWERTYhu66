@@ -155,7 +155,7 @@ connection closed
 <div align="center">
 
 ```
-stay curious.
+done.
 ```
 
 </div>
