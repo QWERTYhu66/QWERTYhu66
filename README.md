@@ -113,7 +113,7 @@ NETWORK: connected
 
 ---
 
-## 💻 SYSTEM STACK VISUAL
+## SYSTEM STACK VISUAL
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
@@ -137,7 +137,7 @@ NETWORK: connected
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwertyhu66&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff9f&text_color=00ff9f" />
+  (to be added)
 </p>
 
 ---
