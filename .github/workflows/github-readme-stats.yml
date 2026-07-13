@@ -35,7 +35,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=stats-organization&repo=sentinelscan-releases
+          options: username=QWERTYhu66&repo=sentinelscan-releases
           path: profile/pin-stats-organization-github-readme-stats-1.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -43,7 +43,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=stats-organization&repo=ytp_3
+          options: username=QWERTYhu66&repo=ytp_3
           path: profile/pin-stats-organization-github-readme-stats-2.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -51,7 +51,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=stats-organization&repo=Useless-Web-Projects
+          options: username=QWERTYhu66&repo=Useless-Web-Projects
           path: profile/pin-stats-organization-github-readme-stats-3.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
