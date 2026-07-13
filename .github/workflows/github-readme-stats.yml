@@ -1,0 +1,26 @@
+name: GitHub Readme Stats
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Generate Readme Stats
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          gh_token: ${{ secrets.GH_TOKEN }}
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add generated-stats/
+          git diff-index --quiet HEAD || git commit -m "Update GitHub Readme Stats"
+          git push
