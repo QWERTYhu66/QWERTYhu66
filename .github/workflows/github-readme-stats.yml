@@ -31,11 +31,27 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card
+      - name: Generate pin card 1
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
-          options: username=stats-organization&repo=github-readme-stats
+          options: username=stats-organization&repo=sentinelscan-releases
+          path: profile/pin-stats-organization-github-readme-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card 2
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=stats-organization&repo=ytp_3
+          path: profile/pin-stats-organization-github-readme-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card 3
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=stats-organization&repo=Useless-Web-Projects
           path: profile/pin-stats-organization-github-readme-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
