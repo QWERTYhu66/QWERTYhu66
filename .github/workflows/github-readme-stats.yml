@@ -36,7 +36,7 @@ jobs:
 
       # pin cards are slightly broken since im not an organization but whatever
       - name: Generate pin card 1
-        uses: vn7n24f1tr1/github-readme-stats-action@v1.0.0
+        uses: stats-organization/github-readme-stats-action@v1.0.0
         with:
           card: pin
           options: username=QWERTYhu66&repo=sentinelscan-releases
@@ -44,7 +44,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card 2
-        uses: vn7n24f1tr1/github-readme-stats-action@v1.0.0
+        uses: stats-organization/github-readme-stats-action@v1.0.0
         with:
           card: pin
           options: username=QWERTYhu66&repo=ytp_3
@@ -52,7 +52,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card 3
-        uses: vn7n24f1tr1/github-readme-stats-action@v1.0.0
+        uses: stats-organization/github-readme-stats-action@v1.0.0
         with:
           card: pin
           options: username=QWERTYhu66&repo=Useless-Web-Projects
