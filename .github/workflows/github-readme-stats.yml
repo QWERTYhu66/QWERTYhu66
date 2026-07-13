@@ -18,6 +18,12 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           card: overview
 
+      - name: Generate Readme Stats
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          card: languages
+
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
