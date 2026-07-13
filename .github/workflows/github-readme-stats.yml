@@ -36,7 +36,7 @@ jobs:
         with:
           card: pin
           options: username=stats-organization&repo=sentinelscan-releases
-          path: profile/pin-stats-organization-github-readme-stats.svg
+          path: profile/pin-stats-organization-github-readme-stats-1.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card 2
@@ -44,7 +44,7 @@ jobs:
         with:
           card: pin
           options: username=stats-organization&repo=ytp_3
-          path: profile/pin-stats-organization-github-readme-stats.svg
+          path: profile/pin-stats-organization-github-readme-stats-2.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate pin card 3
@@ -52,7 +52,7 @@ jobs:
         with:
           card: pin
           options: username=stats-organization&repo=Useless-Web-Projects
-          path: profile/pin-stats-organization-github-readme-stats.svg
+          path: profile/pin-stats-organization-github-readme-stats-3.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
