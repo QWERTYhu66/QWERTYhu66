@@ -138,9 +138,9 @@ NETWORK: connected
 
 <p align="center">
   <img src="./profile/top-langs.svg" alt="Top Languages" />
-  <img src="./profile/pin-stats-organization-github-readme-stats-1.svg" alt="Pinned 1" />
+  <!-- <img src="./profile/pin-stats-organization-github-readme-stats-1.svg" alt="Pinned 1" />
   <img src="./profile/pin-stats-organization-github-readme-stats-1.svg" alt="Pinned 2" />
-  <img src="./profile/pin-stats-organization-github-readme-stats-1.svg" alt="Pinned 3" />
+  <img src="./profile/pin-stats-organization-github-readme-stats-1.svg" alt="Pinned 3" /> -->
 </p>
 
 ---
