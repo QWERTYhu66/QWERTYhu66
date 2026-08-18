@@ -127,21 +127,23 @@ NETWORK: connected
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
 
----
+<!-- --- -->
 
-## GITHUB OUTPUT
+<!-- ## GITHUB OUTPUT -->
 
+<!--
 ```
 > compiling stats...
 > rendering graph...
 ```
+-->
 
-<p align="center">
+<!-- <p align="center"> -->
   <!-- <img src="./profile/top-langs.svg" alt="Top Languages" /> -->
   <!-- <img src="./profile/pin-stats-organization-github-readme-stats-1.svg" alt="Pinned 1" />
   <img src="./profile/pin-stats-organization-github-readme-stats-1.svg" alt="Pinned 2" />
   <img src="./profile/pin-stats-organization-github-readme-stats-1.svg" alt="Pinned 3" /> -->
-</p>
+<!-- </p> -->
 
 ---
 
